@@ -45,7 +45,7 @@ const Title = styled.h1`
   text-shadow: 1px 1px 1px ${(props) => props.theme.body};
 
   position: absolute;
-  top: 0.7rem;
+  top: 0.5rem;
   left: 5%;
   z-index: 11;
 
@@ -68,7 +68,7 @@ const Title2 = styled.h1`
   text-shadow: 1px 1px 1px ${(props) => props.theme.body};
 
   position: absolute;
-  top: 0.7rem;
+  top: 0.5rem;
   left: 55%;
   z-index: 11;
 
