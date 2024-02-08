@@ -33,7 +33,7 @@ export const dark = {
   fontxl: '2em',
   fontxxl: '3em',
   fontxxxl: '5em',
-  fontBig: '10em',
+  fontBig: '7em',
 
   navHeight: '5rem',
 };
