@@ -138,7 +138,7 @@ const About = () => {
     <Section id="fixed-target" className="about">
       <Title
         data-scroll
-        data-scroll-speed="-2"
+        data-scroll-speed="-5"
         data-scroll-direction="horizontal"
       >
         About Me
