@@ -6,16 +6,16 @@ export const light = {
 
   grey: '#bebebe',
 
-  fontxs: '0.75em',
-  fontsm: '0.875em',
-  fontmd: '1em', // 1em = 16px
-  fontlg: '1.25em',
-  fontxl: '2em',
-  fontxxl: '3em',
-  fontxxxl: '5em',
-  fontBig: '10em',
+fontxs: '0.65em',
+  fontsm: '0.775em',
+  fontmd: '0.9em', // 1em = 16px
+  fontlg: '1.15em',
+  fontxl: '1.9em',
+  fontxxl: '2.9em',
+  fontxxxl: '4.9em',
+  fontBig: '5em',
 
-  navHeight: '5rem',
+  navHeight: '6rem',
 };
 
 export const dark = {
