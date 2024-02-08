@@ -45,7 +45,7 @@ const Title = styled.h1`
   text-shadow: 1px 1px 1px ${(props) => props.theme.body};
 
   position: absolute;
-  top: 1rem;
+  top: 0.7rem;
   left: 5%;
   z-index: 11;
 
@@ -58,7 +58,7 @@ const Title = styled.h1`
 `;
 
 const Title2 = styled.h1`
-  font-size: ${(props) => props.theme.fontxxxl};
+  font-size: ${(props) => props.theme.fontxxl};
   font-family: "Kaushan Script";
   font-weight: 300;
   
@@ -68,7 +68,7 @@ const Title2 = styled.h1`
   text-shadow: 1px 1px 1px ${(props) => props.theme.body};
 
   position: absolute;
-  top: 1rem;
+  top: 0.7rem;
   left: 55%;
   z-index: 11;
 
