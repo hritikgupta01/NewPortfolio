@@ -154,11 +154,8 @@ const About = () => {
         my path has been shaped by immersive internships at iNeuron and IDR Research. 
         From crafting precision-driven regression models for traffic forecasting to engineering revolutionary 
         Calling Bot solutions, I revel in pushing boundaries and pioneering solutions.
-        <br/>
-        <br/>
-        Join me on this thrilling adventure as we explore the frontiers of AI and ML,
-         forging new paths that promise to redefine the future of software engineering. 
-         Let's connect on LinkedIn and embark on this transformative journey together.
+        
+       
        
       </Left>
 
