@@ -198,7 +198,7 @@ const CoverVideo = () => {
           data-scroll-delay="0.04"
           data-scroll-speed="2"
         >
-          First Deserving  Before Deserve.
+          First Be Deserving  Before Deserve.
         </motion.h2>
       </Title>
 
