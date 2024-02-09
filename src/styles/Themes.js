@@ -9,7 +9,7 @@ export const light = {
 fontxs: '0.65em',
   fontsm: '0.775em',
   fontmd: '0.9em', // 1em = 16px
-  fontlg: '1.15em',
+  fontlg: '1em',
   fontxl: '1.9em',
   fontxxl: '2.9em',
   fontxxxl: '4.9em',
@@ -29,7 +29,7 @@ export const dark = {
   fontxs: '0.75em',
   fontsm: '0.875em',
   fontmd: '1em', // 1em = 16px
-  fontlg: '1.25em',
+  fontlg: '1em',
   fontxl: '2em',
   fontxxl: '3em',
   fontxxxl: '4em',
