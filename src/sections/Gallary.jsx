@@ -133,7 +133,7 @@ const Right = styled.div`
 
 const Item = styled(motion.div)`
   display: inline-block;
-  width: 45rem;
+  width: 40rem;
   /* background-color: black; */
   margin-right: 6rem;
   img {
