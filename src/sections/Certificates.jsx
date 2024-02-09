@@ -230,7 +230,7 @@ const Certificates = () => {
   return (
     <Section ref={ref} id="certificates" classname="certificates">
       
-      <Title2 data-scroll data-scroll-speed="-1">
+      <Title2 data-scroll data-scroll-speed="-0.75">
           Certificates
         </Title2>
       <Right data-scroll ref={Horizontalref}>
