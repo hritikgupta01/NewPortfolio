@@ -218,7 +218,7 @@ const Skill = () => {
   
     return (
       <Section ref={ref} id="skill" classname="skill">
-        <Title2 data-scroll data-scroll-speed="-1">
+        <Title2 data-scroll data-scroll-speed="-0.75">
          Skills
         </Title2>
         
