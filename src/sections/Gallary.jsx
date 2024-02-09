@@ -68,7 +68,7 @@ const Title2 = styled.h1`
   text-shadow: 1px 1px 1px ${(props) => props.theme.body};
 
   position: absolute;
-  top: 1rem;
+  top: 0.75rem;
   left: 45%;
   z-index: 11;
 
@@ -133,7 +133,7 @@ const Right = styled.div`
 
 const Item = styled(motion.div)`
   display: inline-block;
-  width: 50rem;
+  width: 45rem;
   /* background-color: black; */
   margin-right: 6rem;
   img {
