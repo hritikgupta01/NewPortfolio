@@ -13,7 +13,7 @@ fontxs: '0.65em',
   fontxl: '1.9em',
   fontxxl: '2.9em',
   fontxxxl: '4.9em',
-  fontBig: '5em',
+  fontBig: '4em',
 
   navHeight: '6rem',
 };
@@ -32,7 +32,7 @@ export const dark = {
   fontlg: '1.25em',
   fontxl: '2em',
   fontxxl: '3em',
-  fontxxxl: '5em',
+  fontxxxl: '4em',
   fontBig: '7em',
 
   navHeight: '5rem',
