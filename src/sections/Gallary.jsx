@@ -225,7 +225,7 @@ const Gallary = () => {
   
     return (
       <Section ref={ref} id="gallary" classname="gallary">
-        <Title2 data-scroll data-scroll-speed="-1">
+        <Title2 data-scroll data-scroll-speed="-2">
           Gallery
         </Title2>
         
